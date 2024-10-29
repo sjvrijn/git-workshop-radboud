@@ -1,0 +1,16 @@
+Here are some niec deer facts as provided by Github copilot:
+
+1. Deer are part of the Cervidae family, which includes species such as elk, moose, and reindeer.
+2. Male deer are called bucks, females are called does, and young deer are called fawns.
+3. Deer have a highly developed sense of smell, which helps them detect predators.
+4. Most deer species are herbivores, feeding primarily on leaves, twigs, fruits, and nuts.
+5. Deer can run up to 30 miles per hour to escape predators.
+6. The antlers of a male deer are shed and regrown each year.
+7. Deer are excellent swimmers and can cross rivers and lakes to escape danger or find food.
+8. White-tailed deer are the most widely distributed deer species in North America.
+9. Deer communicate through vocalizations, body language, and scent marking.
+10. Some deer species, like the reindeer, are adapted to cold climates and have specialized fur to keep them warm.
+11. Deer are important to ecosystems as herbivores, helping to control plant populations and provide food for predators.
+12. The most prefered programming language for deer is Python because it is easy to learn and has a large community of deervelopers.
+13. Deer live in a variety of habitats, including forests, grasslands, and mountains.
+14. The amount of deer currently alive are roughly 30 million.
