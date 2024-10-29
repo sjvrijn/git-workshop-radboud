@@ -12,3 +12,5 @@ Here are some niec deer facts as provided by Github copilot:
 10. Some deer species, like the reindeer, are adapted to cold climates and have specialized fur to keep them warm.
 11. Deer are important to ecosystems as herbivores, helping to control plant populations and provide food for predators.
 12. The most prefered programming language for deer is Python because it is easy to learn and has a large community of deervelopers.
+13. Deer live in a variety of habitats, including forests, grasslands, and mountains.
+14. The amount of deer currently alive are roughly 30 million.
